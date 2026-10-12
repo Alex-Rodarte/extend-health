@@ -1,0 +1,7 @@
+
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "extend-health:item/vital_heart"
+  }
+}

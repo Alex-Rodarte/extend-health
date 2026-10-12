@@ -1,0 +1,12 @@
+/give @s extend-health:vital_heart
+/kill
+/summon minecraft:wither_skeleton
+/kill @e[type=minecraft:wither_skeleton]
+/summon minecraft:wither_skeleton
+/kill @e[type=minecraft:wither_skeleton]
+/give @s extend-health:vital_heart 9999
+/give @s extend-health:vital_heart 999
+/kill @e[type=minecraft:enderman]
+/debug start
+/clear
+/give Player838 extend-health:vital_heart

@@ -1,0 +1,6 @@
+{
+  "item.extend-health.vital_heart": "Vital Heart",
+  "item.extend-health.vital_heart.desc": "A magical heart that increases your maximum health.",
+  "item.extend-health.vital_heart.tooltip": "increases your maximun health by a heart.",
+  "creativetab.extend-health": "Extend Health"
+}

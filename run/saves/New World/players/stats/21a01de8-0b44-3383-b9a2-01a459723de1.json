@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:coal": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:coal": 1
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 624,
+      "minecraft:walk_one_cm": 2022,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 250,
+      "minecraft:play_time": 1208,
+      "minecraft:damage_dealt": 30,
+      "minecraft:jump": 7,
+      "minecraft:time_since_death": 599,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 429,
+      "minecraft:fall_one_cm": 450,
+      "minecraft:total_world_time": 1695,
+      "minecraft:fly_one_cm": 1912,
+      "minecraft:deaths": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:wither_skeleton": 1
+    }
+  },
+  "DataVersion": 5023
+}
