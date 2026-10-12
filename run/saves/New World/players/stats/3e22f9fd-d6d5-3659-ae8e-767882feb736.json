@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "extend-health:cursed_heart": 1
+    },
+    "minecraft:dropped": {
+      "extend-health:cursed_heart": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 497,
+      "minecraft:walk_one_cm": 1645,
+      "minecraft:total_world_time": 618,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 497,
+      "minecraft:jump": 6,
+      "minecraft:time_since_death": 497,
+      "minecraft:drop": 1
+    }
+  },
+  "DataVersion": 5023
+}

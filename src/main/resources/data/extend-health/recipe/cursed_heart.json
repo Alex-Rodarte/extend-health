@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:wither_rose",
+    "A": "extend-health:vital_heart"
+  },
+
+  "result": {
+    "id": "extend-health:cursed_heart",
+    "count": 8
+  }
+}

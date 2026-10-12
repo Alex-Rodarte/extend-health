@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:gold_ingot": 56,
+      "minecraft:diamond": 63,
+      "minecraft:crafting_table": 64
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 194,
+      "minecraft:walk_one_cm": 1243,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1087,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 154,
+      "minecraft:sprint_one_cm": 1443,
+      "minecraft:total_world_time": 1152,
+      "minecraft:fly_one_cm": 260,
+      "minecraft:crouch_one_cm": 8,
+      "minecraft:sneak_time": 31,
+      "minecraft:deaths": 1
+    },
+    "minecraft:crafted": {
+      "extend-health:vital_heart": 1
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 5023
+}

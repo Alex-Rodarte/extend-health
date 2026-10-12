@@ -42,6 +42,8 @@ public class ExtendHealth implements ModInitializer {
 	// Registra el Corazón Vital.
 	public static final Item VITAL_HEART = registerVitalHeart();
 
+	public static final Item CURSED_HEART = registerCursedHeart();
+
 	private static Item registerVitalHeart() {
 		ResourceKey<Item> key = ResourceKey.create(
 				Registries.ITEM,
@@ -92,6 +94,7 @@ public class ExtendHealth implements ModInitializer {
 						.icon(() -> new ItemStack(VITAL_HEART))
 						.displayItems((parameters, output) -> {
 							output.accept(VITAL_HEART);
+							output.accept(CURSED_HEART);
 						})
 						.build()
 		);
@@ -119,6 +122,21 @@ public class ExtendHealth implements ModInitializer {
 		);
 
 		LOGGER.info("Extend Health iniciado correctamente");
+	}
+
+	private static Item registerCursedHeart() {
+		ResourceKey<Item> key = ResourceKey.create(
+				Registries.ITEM,
+				id("cursed_heart")
+		);
+
+		return Registry.register(
+				BuiltInRegistries.ITEM,
+				key,
+				new cursedheartItem(
+						new Item.Properties().setId(key)
+				)
+		);
 	}
 
 	public static Identifier id(String path) {

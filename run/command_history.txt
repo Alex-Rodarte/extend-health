@@ -10,3 +10,18 @@
 /debug start
 /clear
 /give Player838 extend-health:vital_heart
+/kill
+/summon minecraft:creeper
+/summon minecraft:lightning_bolt
+/summon minecraft:creeper
+/time set minecraft:day
+/kill
+/give @s extend-health:vital_heart
+/give Player927 minecraft:wither_rose 64
+/give @s extend-health:vital_heart 64
+/setblock ~ ~ ~ minecraft:crafting_table
+/setblock ~ ~1 ~ minecraft:crafting_table
+/setblock ~ ~-1 ~ minecraft:crafting_table
+/give @s extend-health:vital_heart 3
+/give Player172 extend-health:vital_heart 64
+/give Player172 extend-health:cursed_heart 64

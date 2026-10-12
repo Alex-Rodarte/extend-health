@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "extend-health:cursed_heart": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 2174,
+      "minecraft:walk_one_cm": 1502,
+      "minecraft:total_world_time": 2408,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 2174,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 2174
+    },
+    "minecraft:mined": {
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 5023
+}

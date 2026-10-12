@@ -1,0 +1,18 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "A": "minecraft:diamond"
+  },
+  "result": {
+    "id": "extend-health:vital_heart",
+    "count": 1
+  }
+}

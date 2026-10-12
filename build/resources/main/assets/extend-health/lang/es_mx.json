@@ -2,5 +2,7 @@
   "item.extend-health.vital_heart": "Corazón Vital",
   "item.extend-health.vital_heart.desc": "Un corazón mágico que aumenta tu vida máxima.",
   "item.extend-health.vital_heart.tooltip": "Aumenta tu vida máxima en un corazón.",
+  "item.extend-health.cursed_heart": "Corazón Maldito",
   "creativetab.extend-health": "Extend Health"
+
 }

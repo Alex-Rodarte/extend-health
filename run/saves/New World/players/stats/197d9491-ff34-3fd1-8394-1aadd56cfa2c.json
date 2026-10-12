@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 516,
+      "minecraft:walk_one_cm": 429,
+      "minecraft:total_world_time": 1219,
+      "minecraft:play_time": 516,
+      "minecraft:time_since_death": 516
+    },
+    "minecraft:crafted": {
+      "extend-health:vital_heart": 1
+    }
+  },
+  "DataVersion": 5023
+}
